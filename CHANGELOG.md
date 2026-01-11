@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2026-01-11
+
+### Fixed
+- Fixed incorrect source path in marketplace.json for example-plugin (was pointing to non-existent `./plugins/hello`, now correctly points to `./plugins/example-plugin`)
+
 ## [1.0.0] - 2026-01-11
 
 ### Added
@@ -21,4 +26,5 @@ All notable changes to this project will be documented in this file.
 - Chinese translation (README.zh-CN.md) for broader accessibility
 - Plugin development documentation and structure reference
 
+[1.0.1]: https://github.com/purexua/claude-plugins/releases/tag/v1.0.1
 [1.0.0]: https://github.com/purexua/claude-plugins/releases/tag/v1.0.0

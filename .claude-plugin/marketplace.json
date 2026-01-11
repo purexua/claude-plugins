@@ -9,7 +9,7 @@
         {
             "name": "example-plugin",
             "description": "A friendly greeting plugin that warmly welcomes users by name and offers personalized assistance",
-            "source": "./plugins/hello",
+            "source": "./plugins/example-plugin",
             "version": "1.0.0"
         },
         {
