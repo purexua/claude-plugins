@@ -1,6 +1,8 @@
 # Purexua 的 Claude Code 插件
 
-[English](README.md) | 简体中文
+<p align="center">
+<a href="README.md">English</a> | 简体中文
+</p>
 
 Purexua 精选的高质量 Claude Code 插件目录。
 

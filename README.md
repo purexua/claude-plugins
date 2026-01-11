@@ -1,6 +1,8 @@
 # Purexua's Claude Code Plugins
 
-English | [简体中文](README.zh-CN.md)
+<p align="center">
+English | <a href="README.zh-CN.md">简体中文</a>
+</p>
 
 A curated directory of high-quality plugins for Claude Code by Purexua.
 
